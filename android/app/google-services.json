@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070767127346",
+    "project_id": "macc-d9a9f",
+    "storage_bucket": "macc-d9a9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070767127346:android:932fc4a840a01a09f7b52b",
+        "android_client_info": {
+          "package_name": "com.mmpeal.macc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070767127346-gtuf0p3nm6cf197hkb4e38n8an6pon6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuxph2flS4qpha-a0Yyf--pSPdyD91S-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070767127346-gtuf0p3nm6cf197hkb4e38n8an6pon6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
